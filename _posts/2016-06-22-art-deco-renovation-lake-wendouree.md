@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Art Deco Renovation -Lake Wendouree
-datePublished: '2016-06-22T11:20:32.284Z'
-dateModified: '2016-06-22T11:19:55.171Z'
+datePublished: '2016-06-22T11:22:26.731Z'
+dateModified: '2016-06-22T11:21:50.388Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-22-art-deco-renovation-lake-wendouree.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-22-art-deco-renovation-lake-wendouree.md
 url: art-deco-renovation-lake-wendouree/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e534ef2-bc87-4379-a824-d04368bb2ea1.jpg)
