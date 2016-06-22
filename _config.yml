@@ -1,0 +1,28 @@
+name: Rieniets Architecture
+favicon: null
+layout_spectrum: 0.43334072013385594
+typography_spectrum: 0.2634767082054168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5466163728851825
+  lightness: 0.5517615526914597
+  saturation: 0.34374642721377313
+  rhythmicContrast: 0.6891935793682933
+purpose: []
