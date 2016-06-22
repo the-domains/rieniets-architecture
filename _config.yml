@@ -1,6 +1,6 @@
 name: Rieniets Architecture
 favicon: null
-layout_spectrum: 0.29543
+layout_spectrum: 0.5722
 typography_spectrum: 0.59988
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#23384d'
     - '#cd756c'
     - '#647281'
-  brandStrength: 0.4375
+  brandStrength: 0.6875
   lightness: 0.5625
-  saturation: 0.5625
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
